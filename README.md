@@ -1,8 +1,8 @@
-# ReVanced Magisk Module
-[![Build Modules](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+# Revanced-Extended Magisk Module
+[![Build Modules](https://github.com/Lucky-069/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
+[![CI](https://github.com/Lucky-069/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-You can get the [latest CI release from here](https://github.com/j-hc/revanced-magisk-module/releases).
+You can get the [latest CI release from here](https://github.com/Lucky-069/revanced-magisk-module/releases).
 
 The [**mindetach module**](https://github.com/j-hc/mindetach-magisk) in the releases section detaches YouTube and YouTube Music from Play Store and blocks it from updating them.
 
@@ -20,7 +20,7 @@ The [**mindetach module**](https://github.com/j-hc/mindetach-magisk) in the rele
      * do not cause any permanent changes in /system or /data partitions
 
 ## To include/exclude patches
-[**See the list of patches**](https://github.com/revanced/revanced-patches#-list-of-available-patches)
+[**See the list of patches**](https://github.com/inotia00/revanced-patches#-list-of-available-patches)
 
  * Star the repo :eyes:
  * Use the repo as template or fork it (if you choose the repo to be private, you won't receive updates from Magisk app)
